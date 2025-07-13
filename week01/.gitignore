@@ -1,0 +1,14 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user files
+*.user
+*.suo
+
+# VSCode config
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
