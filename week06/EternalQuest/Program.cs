@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    // Note: I kept My comments short and simple. 
+    // Note: 
     // - inheritance + polymorphism (Goal subclasses)
     // - encapsulation (private members)
     // - saving/loading via text file
