@@ -3,8 +3,8 @@ using System;
 class Program
 {
     // Note: 
-    // - inheritance + polymorphism (Goal subclasses)
-    // - encapsulation (private members)
+    // - I used inheritance + polymorphism (Goal subclasses)
+    // - encapsulation For (private members)
     // - saving/loading via text file
     // - user can create goals and record events.
     static void Main(string[] args)
